@@ -1,0 +1,26 @@
+chaos creator simulator was created by dkwdaft and crimson ravioli https://crimsonravioli.itch.io
+
+Art by crimson ravioli
+
+Engineering by dkwdaft & crimson ravioli 
+
+
+Acknowledgements the following assets were used  to make our game.
+
+
+NavMeshPlus
+
+url: https://github.com/h8man/NavMeshPlus
+
+License : MIT License
+
+
+Guess Who by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/
+
+Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100214
+
+Artist: http://incompetech.com/
+
+
+
+Thank You for playing!!!
